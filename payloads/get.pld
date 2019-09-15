@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Sat, 15 Jun 2000 00:00:00 GMT
+Server: Apache
+Strict-Transport-Security: max-age=315360000;
+Content-Length: 256
+Connection: close
+Content-Type: text/html
+
+1,Connected,26,0,2019-06-16,
